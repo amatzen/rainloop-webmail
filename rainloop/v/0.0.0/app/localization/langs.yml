@@ -8,6 +8,7 @@ Common:
         LANG_EN_CA: English (Canadian)
 
         LANG_EL_GR: Ελληνικά
+        LANG_DA_DK: Dansk
         LANG_NL_NL: Nederlands
         LANG_NB_NO: Norsk (bokmål)
         LANG_PL_PL: Polski
@@ -50,6 +51,7 @@ Common:
         LANG_EN_CA: English (Canadian)
 
         LANG_EL_GR: Greek
+        LANG_DA_DK: Danish
         LANG_NL_NL: Dutch
         LANG_NB_NO: Norwegian (bokmal)
         LANG_PL_PL: Polish
